@@ -1,0 +1,110 @@
+body {
+	background-color: #0A64A4;
+	height: 100%;
+}
+
+.title {
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	text-align: center;
+	color: white;
+}
+
+.description {
+	font-weight: bold;
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	color: white;
+	text-align: center;
+}
+
+#coinimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+#begin {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 7em;
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	color: white;
+	background-color: #03406A;
+	width: 400px;
+	height: 250px;
+	line-height: 220px;
+	border:6px solid #3E94D1;
+	border-radius: 40px;
+}
+
+#bottom {
+	font-size: 0.6em;
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	color: white;
+	text-align: center;
+}
+
+#collector {
+	height: 100%;
+	width:100%;
+	overflow: hidden;
+}
+
+#hp-button {
+	position: fixed;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: auto;
+	margin-left: 10px;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	color: white;
+	background-color: #29497F;
+	width: 200px;
+	height: 60px;
+	line-height: 50px;
+	border-radius: 5px;
+}
+
+#next {
+	position: fixed;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: auto;
+	margin-left: 240px;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.3em;
+	font-family: "Comic Sans MS", "Verdana", "Arial", "Times New Roman", serif;
+	color: white;
+	background-color: #2EB82E;
+	width: 200px;
+	height: 60px;
+	line-height: 50px;
+	border-radius: 5px;
+}
+
+#container {
+	z-index: -1;
+ 	position:absolute;
+ 	left: 0;
+ 	right: 0;
+ 	bottom: 0;
+ 	top: 0px;
+}
+
+#collectorweb {
+	height: 100%;
+	width: 100%;
+	border: none;
+}

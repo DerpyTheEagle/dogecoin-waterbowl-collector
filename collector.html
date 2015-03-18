@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<!-- Dogecoin Faucet Collector by /u/Im_Not_A_Tree -->
+
+<html>
+	<head>
+		<title>Dogecoin Faucet Collector</title>
+		<link rel="stylesheet" href="css/stylesheet.css"/>
+		<script>
+ 		 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ 		 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-51630425-2', 'dogecoinwaterbowlcollector.herokuapp.com');
+ 		 ga('send', 'pageview');
+		</script>
+		<script type="text/javascript" src="js/collector.js"></script>
+	</head>
+	<body id="collector">
+		<a href="http://dogecoinwaterbowlcollector.herokuapp.com">
+			<div id="hp-button">Homepage</div>
+		</a>
+		<button id="next">Next Waterbowl</button>
+		<div id="remainingdiv">
+			<p class="remaining">?</p>
+			<p class="remaining">to go</p>
+		</div>
+		<div id="container">
+			<iframe id="collectorweb" src="faucetfill.html" />
+		</div>
+	</body>
+</html>

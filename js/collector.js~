@@ -14,8 +14,6 @@ window.onload = function() {
 	'http://dogecoin.space/?r=D8kCjKaDthsDRqqwBKgQG2GFyn35nQPeKX',
 	'http://free-coin.info/?r=D8kCjKaDthsDRqqwBKgQG2GFyn35nQPeKX',
 	'http://doge.kranbitcoin.in/?r=D8kCjKaDthsDRqqwBKgQG2GFyn35nQPeKX',
-	'http://makingmoneyhoney.com/index.php?r=D8kCjKaDthsDRqqwBKgQG2GFyn35nQPeKX',
-	'http://dogecoin.square7.ch/?r=D8kCjKaDthsDRqqwBKgQG2GFyn35nQPeKX',
 	'end.html',
 ];
 

@@ -25,7 +25,7 @@
 		<button id="next">Next Waterbowl</button>
 		<div id="togo"><span id="togospan">Waterbowls Left:</span></div>
 		<div id="container">
-			<iframe id="collectorweb" src="faucetfill.html" sandbox="allow-forms allow-scripts allow-same-origin"/>
+			<iframe id="collectorweb" src="faucetfill.html" sandbox="allow-forms allow-scripts"/>
 		</div>
 	</body>
 </html>

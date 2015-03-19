@@ -15,8 +15,9 @@
 		</script>
 		</head>
 		<body>
-			<h1 class="title">That's all, folks!</h1>
-			<h2 class="title">That's the last faucet.<br>If you want to go again, click "Next Waterbowl" up top; you'll be taken back to the first faucet.</h2>
+			<h1 class="title">Howdy!</h1>
+			<h2 class="title">Use the "Next Waterbowl" button up top to get started.</h2>
+			<p id="bottom">Please note that some faucets may open pop-ups. I've tried my best to keep the popups SFW and not virus-y, but I can't guarantee anything. Contact me if any of them intrude too much.</p>
 			<p id="bottom">Is there a faucet that's dry or broken? Contact me on reddit!<br>I'm /u/Im_Not_A_Tree.</p>
 		</body>
 	</html>
